@@ -1,6 +1,6 @@
 package java_20190718;
 
-public class LotterDemo_error {
+public class LotterDemo_error_1 {
 	public static void main(String[] args) {
 		// math.random()=>0보다 크거나 같고 1보다 작은 양수를
 		// double 값으로 반환한다
